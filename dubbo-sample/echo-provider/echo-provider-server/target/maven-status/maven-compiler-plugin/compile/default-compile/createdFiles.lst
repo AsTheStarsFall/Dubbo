@@ -1,0 +1,3 @@
+com\tianhy\study\dubbo\App.class
+com\tianhy\study\dubbo\impl\EchoServiceImpl.class
+com\tianhy\study\dubbo\impl\HelloServiceImpl.class

@@ -18,7 +18,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <dubbo.version>2.7.2</dubbo.version>
+        <dubbo.version>2.7.13</dubbo.version>
         <zk.version>2.13.0</zk.version>
         <jetty.version>9.4.19.v20190610</jetty.version>
 
